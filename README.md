@@ -20,7 +20,7 @@ and AI projects, skills, and experience.
 - Multi-page Book Scraper
 
 ## Connect With Me
-- 📧 hamidraza71450@gmail.com
-- 💼 linkedin.com/in/hamid-raza-data-scientist
-- 🐙 github.com/hamidraza6
-- 📊 kaggle.com/raza163
+* 📧 [hamidraza71450@gmail.com](mailto:hamidraza71450@gmail.com)
+* 💼 [linkedin.com/in/hamid-raza-data-scientist](https://linkedin.com/in/hamid-raza-data-scientist)
+* 🐙 [github.com/hamidraza6](https://github.com/hamidraza6)
+* 📊 [kaggle.com/raza163](https://kaggle.com/raza163)
